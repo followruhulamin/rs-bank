@@ -26,8 +26,13 @@ body{
 }
 
 .status {
-    margin: 0 20px;
+    margin: 20px 20px;
     color: white;
     padding: 20px;
     border-radius: 10px;
+}
+
+.footer{
+    margin-top: 50px;
+    color: gray;
 }
